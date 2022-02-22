@@ -103,5 +103,5 @@ theme: ayer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/MegCox/blog
+  repo: https://github.com/MegCox/megcox.github.io
   branch: gh-pages
