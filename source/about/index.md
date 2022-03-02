@@ -8,3 +8,5 @@ You’re very welcome to join me on the evolution of this page and, more importa
 
 Route plan:
 ![Route Plan](/Users/megcox/Documents/source_code_blog/source/about/about/Route.png)
+
+Current location: England
