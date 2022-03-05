@@ -7,6 +7,7 @@ My name is Meg. I’m travelling for the next 12 months, from England to Thailan
 You’re very welcome to join me on the evolution of this page and, more importantly, my trip.
 
 Route plan:
-![Route Plan](/Users/megcox/Documents/source_code_blog/source/about/about/Route.png)
+![Route Plan](source/about/about/Route.png)
 
 Current location: England
+Next stop: Paris
