@@ -107,3 +107,19 @@ deploy:
   type: git
   repo: https://github.com/MegCox/megcox.github.io.git
   branch: gh-pages
+
+# Images
+images:
+    enable: true
+    base_dir: ".images"
+    manifestFileName: "images.json"
+    excludeSourceImages: true
+    templates:
+        image: themes/theme1/layout/_tag/image.ejs
+        video: themes/theme1/layout/_tag/video.ejs
+    specialImages:
+        - name: list_image
+          frontmatter: list_image
+          suffix: list
+          width: 590
+          height: 200
