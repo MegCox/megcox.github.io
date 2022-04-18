@@ -9,3 +9,5 @@ You’re very welcome to join me on the evolution of this page and, more importa
 
 Route plan:
 {% asset_img Route.png %}
+
+{% googlePhotosAlbum https://photos.google.com/share/AF1QipPoI9mv5y6tNxAYjHyn_DeT1b7HfQAxuhspcRbAh5Y790ASDlwUou0M9pfSLXS_4w?key=ZDNBUFVOUnRhRHVrQm1RQ3BVV3ZCdWVWR0plXzF3 %}
