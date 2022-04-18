@@ -11,6 +11,11 @@ author: Megan Cox
 language: en
 timezone: ''
 
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://megcox.github.io/blog
@@ -40,7 +45,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -97,7 +102,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: landscape
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +111,20 @@ deploy:
   type: 'git'
   repo: https://github.com/MegCox/megcox.github.io
   branch: gh-pages
+
+
+# Images
+images:
+    enable: true
+    base_dir: ".images"
+    manifestFileName: "images.json"
+    excludeSourceImages: true
+    templates:
+        image: themes/theme1/layout/_tag/image.ejs
+        video: themes/theme1/layout/_tag/video.ejs
+    specialImages:
+        - name: list_image
+          frontmatter: list_image
+          suffix: list
+          width: 590
+          height: 200

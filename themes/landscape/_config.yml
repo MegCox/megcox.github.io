@@ -1,8 +1,18 @@
+# Site
+title: Meg the Rolling Egg
+subtitle: 'Travel Blog'
+description: 'My name is Meg. I’m travelling for the next 12 months, from England to Thailand across land. I wanted a place to properly record this trip - no highlight reel and no restraints. Complete freedom on what I write about, and a chance to actually write. Who knows what this blog will include, but definitely don’t expect consistency or beautiful prose. 
+You’re very welcome to join me on the evolution of this page and, more importantly, my trip.'
+keywords:
+author: Meg Cox
+language: en
+timezone: ''
+
 # Header
 menu:
   Home: /
+  About: /about
   Archives: /archives
-rss: /atom.xml
 
 # Content
 excerpt_link: Read More
@@ -35,3 +45,26 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+deploy:
+  type: git
+  repo: https://github.com/MegCox/megcox.github.io.git
+  branch: gh-pages
+
+# Images
+images:
+    enable: true
+    base_dir: ".images"
+    manifestFileName: "images.json"
+    excludeSourceImages: true
+    templates:
+        image: themes/theme1/layout/_tag/image.ejs
+        video: themes/theme1/layout/_tag/video.ejs
+    specialImages:
+        - name: list_image
+          frontmatter: list_image
+          suffix: list
+          width: 590
+          height: 200
