@@ -24,7 +24,7 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-tag-google-photos-album-gallery": "^1.0.1",
-    "hexo-theme-ayer": "^1.9.5",
+    "hexo-theme-ayer": "^1.9.6",
     "hexo-theme-landscape": "^0.0.3"
   }
 }
