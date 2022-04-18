@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M694ENPD4G"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-M694ENPD4G');
+  </script>
   <meta charset="utf-8">
   
 <!-- Google Analytics -->
@@ -43,7 +52,7 @@ ga('send', 'pageview');
   
 <link rel="stylesheet" href="/css/style.css">
 
-<!-- hexo injector head_end start -->google_photos_album.css<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.1"></head>
+<meta name="generator" content="Hexo 5.4.1"></head>
 
 <body>
   <div id="container">
@@ -148,7 +157,7 @@ function addLoadEvent(func) {
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://megcox.github.io/2022/03/18/people/" data-id="cl24ldxzl0007hkw5do96ejd2" class="article-share-link">Share</a>
+      <a data-url="https://megcox.github.io/2022/03/18/people/" data-id="cl24lxhuv0006vpw5behl3bnx" class="article-share-link">Share</a>
       
       
     </footer>
@@ -279,32 +288,5 @@ function addLoadEvent(func) {
 
 
   </div>
-<!-- hexo injector body_end start --><script>
-function addLoadEvent(func) {
-  const oldonload = window.onload;
-  if (typeof window.onload !== 'function') {
-    window.onload = func;
-  } else {
-    window.onload = () => {
-      oldonload();
-      func();
-    };
-  }
-}
-  addLoadEvent(() => {
-    try {
-      if (window.innerWidth < Number('768')) {
-        return;
-      }
-      const imgs = Array.from(document.body.querySelectorAll('.google-photos-album-images a'));
-      imgs.push(...Array.from(document.body.querySelectorAll('a.google-photos-album-image')));
-      for (const anchor of imgs) {
-        anchor.href = anchor.href.replace(/=s720\-no/i, '=s1920-no');
-      }
-    } catch (e) {
-      console.log(e);
-    }
-  });
-</script>
-<!-- hexo injector body_end end --></body>
+</body>
 </html>
