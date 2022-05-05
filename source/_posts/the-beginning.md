@@ -31,4 +31,4 @@ I’m also taking a small cross-body bag.
 {% asset_img Packed.png %}
 
 So there we are, packed and ready to go!
-I'll have to buy some warm weather clothes when I move into colder climates, and perhaps some hiking boots, but hopefully this will have me sorted for the first 6 months.
+I'll have to buy some warmer clothes when I move into colder climates, and perhaps some hiking boots, but hopefully this will have me sorted for the first 6 months.
