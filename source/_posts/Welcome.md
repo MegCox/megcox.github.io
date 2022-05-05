@@ -9,3 +9,5 @@ You’re very welcome to join me on the evolution of this page and, more importa
 
 Route plan:
 {% asset_img Route.png %}
+
+*Disclaimer: You might note that my route goes through a few war zones, but don't worry I'm not completely insane! If they are still not great places to travel through (I'm not holding my breath), I will fly over them. Currently it's looking like I'll be flying from Uzbekistan to Nepal, and from Nepal to Thailand.*
