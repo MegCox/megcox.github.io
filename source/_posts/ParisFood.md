@@ -1,8 +1,8 @@
 ---
 title: My favourite french meal
 date: 2022-05-11 19:48:53
-tags:
-categories:
+tags: 
+categories: Food
 ---
 
 {% asset_img lunch.jpg %}
