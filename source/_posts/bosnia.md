@@ -1,5 +1,5 @@
 ---
-title: Bosnia
+title: Bosnia and Hercegovina
 date: 2022-07-02 14:55:10
 tags:
 categories: Travel
@@ -20,7 +20,7 @@ Whilst in Mostar I was able to see more of the actual country of B&H by taking a
 
 {% asset_img M2.png Hercegovinia tour %}
 
-Something else I wasn’t a huge fan of was the Bosnian coffee. I went to a traditional coffee house and the lady there gave me an explanation of how to drink it. First I was to add a few tea spoons of cold water to the pot (called an ibrik) which currently had hot water and coffee grounds inside. The cold water is heavier than the hot water so falls to the bottom, taking the coffee grounds with it. Then you take the creamy bit of coffee off the top and spoon it into the little cup. Then pour the coffee in. If you want sugar, you don’t add it to your cup but take a sugar cube and have a nibble of it with every sip. Something I was a huge fan of was the Hercegovinian wine! The red wine was called Blatina and it was honestly delicious. Like I’d genuinely choose it over varieties. It was also cheap (2EUR for 250ml), like everything in B&H.
+Something else I wasn’t a huge fan of was the Bosnian coffee. I went to a traditional coffee house and the lady there gave me an explanation of how to drink it. First I was to add a few tea spoons of cold water to the pot (called an ibrik) which currently had hot water and coffee grounds inside. The cold water is heavier than the hot water so falls to the bottom, taking the coffee grounds with it. Then you take the creamy bit of coffee off the top and spoon it into the little cup. Then pour the coffee in. If you want sugar, you don’t add it to your cup but take a sugar cube and have a nibble of it with every sip. Something I was a huge fan of was the Hercegovinian wine! The red wine was called Blatina and it was honestly delicious. Like I’d genuinely choose it over other varieties. It was also cheap (2EUR for 250ml), like everything in B&H.
 
 On the walk back from the wine bar on my last night the skies turned red. It was the anniversary of the Mostar football team doing something but I couldn’t find out what. Pretty cool though.
 
