@@ -1,8 +1,9 @@
 ---
 title: July
-date: 2022-07-15 16:01:50
+date: 2022-07-14 16:01:50
 categories: Full Moon check-in
 ---
+### Full Moon Check-in
 *(The last two months it's been cloudy on the full moons, so this is the first time I've seen it.)*
 
 1. Last: Workaway in Dobrusa, Slovenia, taking the dog Siba for an evening walk.
