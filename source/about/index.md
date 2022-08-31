@@ -6,11 +6,11 @@ My name is Meg. I’m travelling for the next 12 months, from **England to Thail
 
 You’re very welcome to join me on the evolution of this page and, more importantly, my trip.
 
-*Current location:* Montenegro
-*Next stop:* Albania
+*Current location:* Albania
+*Next stop:* Greece
 
 If you have **any** recommendations for the country I'm currently in or other counrties in the area please please please let me know! It would make my day, and you may even receive a postcard as a thank you.
 
-The first leg: 
+The second leg: 
 (Limited by maximum google maps stops allowed.)
-<iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d5585105.591135098!2d5.076015462435763!3d46.881035202657955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon!3m2!1d51.5072178!2d-0.12758619999999998!4m5!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!3m2!1d48.856614!2d2.3522219!4m5!1s0x478e39c0d43a1b77%3A0xcb555ffe0457659a!2sBern%2C%20Switzerland!3m2!1d46.9479739!2d7.4474468!4m5!1s0x479e75f9a38c5fd9%3A0x10cb84a7db1987d!2sMunich%2C%20Germany!3m2!1d48.1351253!2d11.5819805!4m5!1s0x470b939c0970798b%3A0x400af0f66164090!2sPrague%2C%20Czechia!3m2!1d50.075538099999996!2d14.4378005!4m5!1s0x476c89360aca6197%3A0x631f9b82fd884368!2sBratislava%2C%20Slovakia!3m2!1d48.1485965!2d17.1077478!4m5!1s0x4741c334d1d4cfc9%3A0x400c4290c1e1160!2sBudapest%2C%20Hungary!3m2!1d47.497912!2d19.040235!4m5!1s0x476531f5969886d1%3A0x400f81c823fec20!2sLjubljana%2C%20Slovenia!3m2!1d46.056946499999995!2d14.505751499999999!4m5!1s0x47616784a5c87ea9%3A0x400ad50862bc3b0!2sPlitvi%C4%8Dka%20Jezera%2C%20Croatia!3m2!1d44.8807696!2d15.6210837!4m5!1s0x134de8079606867d%3A0x6bf78a76ea588ae9!2sPodgorica%2C%20Montenegro!3m2!1d42.4304196!2d19.2593642!5e0!3m2!1sen!2suk!4v1647613247592!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d5454759.516187037!2d38.24544160911668!3d41.03218489007113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x1350310470fac5db%3A0x40092af10653720!2sTirana%2C%20Albania!3m2!1d41.3275459!2d19.8186982!4m5!1s0x14a1bd1f067043f1%3A0x2736354576668ddd!2sAthens%2C%20Greece!3m2!1d37.9838096!2d23.727538799999998!4m5!1s0x149afe2f827d98a1%3A0x100bd2ce2b9c630!2sCrete%2C%20Greece!3m2!1d35.240117!2d24.809269099999998!4m5!1s0x135b5c00bfd150d7%3A0x400bd2ce2b99410!2sCorfu%2C%20Greece!3m2!1d39.624983799999995!2d19.9223461!4m5!1s0x14caa7040068086b%3A0xe1ccfe98bc01b0d0!2s%C4%B0stanbul%2C%20Turkey!3m2!1d41.0082376!2d28.9783589!4m5!1s0x14d6025c679e1679%3A0xf9178b7341dc5e49!2sCappadocia%2C%20Turkey!3m2!1d38.3534949!2d35.0911156!4m5!1s0x40440cd7e64f626b%3A0x61d084ede2576ea3!2sTbilisi%2C%20Georgia!3m2!1d41.7151377!2d44.827096!4m5!1s0x40307d6bd6211cf9%3A0x343f6b5e7ae56c6b!2sBaku%2C%20Azerbaijan!3m2!1d40.409261699999995!2d49.8670924!5e0!3m2!1sen!2s!4v1661952340110!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
