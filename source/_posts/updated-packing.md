@@ -34,6 +34,12 @@ I have a lot of ‘useful’ items in my bag, but let’s assess how useful they
 4. Jeans. Same as denim jacket, but knew my family could bring them back out ready for colder months.
 5. Hiking shorts/trousers. Realised I could hike in my normal shorts and I didn’t enjoy wearing these casually, gave them to a charity shop in Lljubljana.
 
+**New useful items**
+During the last few months travelling I've mulled over potentially useful items to add for the next bit of the journey and three of these made the cut.
+1. A filtration water bottle. It was super expensive so I took my time to decide if it was actually necessary but ultimately decided that it was. It filters any water (apart from seawater) to make it drinkable. This means when the tap water isn't drinkable (like in South East Asia and I'm guessing central Asia too) I'll still be able to drink it and won't have to buy a ton of bottled water. The main reason for purchasing it is to reduce my plastic consumption in these countries, and it will likely be more convenient and will come in handy when hiking etc. too!
+2. Healthy gut bacteria tablets to take daily. After the decimating effect of the stomach bug I had in Albania, my microbiome seems to need some help to recover (read: my stomach hasn't been quite right since). Hopefully these will also help me avoid a similar situation again, or at least reduce the impact of it.
+3. Immodium tablets. If the above doesn't fight off a stomach issue in the future (I'm not too hopeful to be honest) I thought it wise to have some emergency immodium!
+
 ### Capsule wardrobe update
 
 My few items of clothing changed quite a lot from my original packing to now. After getting rid of my jeans and jacket I had space to introduce a few more summery pieces (a short skirt from a thrift shop in Lljubljana, a long skirt from a charity shop in Mostar, a dress from a boutique in Lljubljana, some more crop tops). I also got bored of items so when I saw friends in Montenegro in August I had them bring me different items and sent old ones home with them. I did the same when I saw more friends in Crete in September. (Thanks again lovely people that brought me out items!) Overall, I wished I packed ‘nicer’ clothes rather than strictly practical ones. But I also enjoyed shopping for nicer items here, and wasn’t too attached to the ones I had meaning I was okay with donating them to charity shops/hostel swap rails.
