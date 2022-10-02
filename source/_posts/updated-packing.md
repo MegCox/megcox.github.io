@@ -18,7 +18,8 @@ I have a lot of ‘useful’ items in my bag, but let’s assess how useful they
 4. Uniqlo little shoulder bag. Literally use it everyday. Also get a lot of compliments on it so that’s always nice. It looks small but I’ve been able to fit a beach towel, my bikini, swimming bottle, kindle, purse, phone, earphones, lipbalm etc. all in it for a compact beach day.
 5. Folding shopping bag. Has come in handy for both shopping and beach days which require more than I can fit in my small bag but less than in my rucksack.
 6. Travel wash. No debate here, was always going to be washing underwear in hostel sinks and that’s exactly what I’ve been doing.
-7. Then there are the items that were never in question (multiple bank cards, padlocks, ear plugs and eye mask etc.).
+7. Reusable sandwich bag. So useful for packed lunches, or storing food items like homemade cookies! Have used it a lot.
+8. Then there are the items that were never in question (multiple bank cards, padlocks, ear plugs and eye mask etc.).
 
 **Not really used but will keep for now:**
 
