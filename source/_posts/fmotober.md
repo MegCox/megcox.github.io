@@ -1,5 +1,5 @@
 ---
-title: fmotober
+title: October
 date: 2022-10-09 18:24:30
 tags:
 - Central Asia
