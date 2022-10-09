@@ -2,6 +2,8 @@
 title: Athens
 date: 2022-09-10 11:57:08
 tags: 
+- Europe
+- Greece
 categories: Travel
 ---
 ### A fleeting but full visit

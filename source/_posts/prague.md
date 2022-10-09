@@ -1,6 +1,9 @@
 ---
 title: Prague and Brno
 date: 2022-06-11 16:01:49
+tags:
+- Europe
+- Czechia
 categories: Travel
 ---
 ## Prague

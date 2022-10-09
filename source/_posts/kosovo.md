@@ -2,6 +2,8 @@
 title: Prizren, Kosovo
 date: 2022-08-07 16:38:49
 tags:
+- Europe
+- Kosovo
 categories: Travel
 ---
 {% asset_img Kosovo.png Prizren %}

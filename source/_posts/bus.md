@@ -2,6 +2,7 @@
 title: Making the most of a long travel day
 date: 2022-06-24 19:54:51
 tags:
+- Europe
 categories: Travel
 ---
 When deciding to do this slow, land travel route I knew I’d have to get used to long bus journeys. I got used to them very quickly, and now I’m finding a way to even enjoy them. This is how I managed to do that for my journey from Ljubljana, Slovenia to Ulcinj, Montenegro (total bus time: 18 hours, total travel time: 30 hours).

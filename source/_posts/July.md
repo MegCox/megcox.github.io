@@ -1,6 +1,8 @@
 ---
 title: July
 date: 2022-07-14 16:01:50
+tags:
+- Europe
 categories: Full Moon check-in
 ---
 ### Full Moon Check-in

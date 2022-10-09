@@ -2,6 +2,8 @@
 title: Budapest
 date: 2022-06-11 17:45:09
 tags:
+- Europe
+- Hungary
 categories: Travel
 ---
 {% asset_img banner.jpg %}

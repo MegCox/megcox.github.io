@@ -2,6 +2,8 @@
 title: Black uneaten chicken
 date: 2022-05-29 13:44:12
 tags:
+- Europe
+- Switzerland
 categories: Food
 ---
 {% asset_img chicken1.jpg %}

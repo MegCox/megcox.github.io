@@ -2,6 +2,8 @@
 title: Eva
 date: 2022-05-29 13:49:13
 tags:
+- Europe
+- Switzerland
 categories: People
 ---
 {% asset_img eva1.jpg %}

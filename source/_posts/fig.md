@@ -2,6 +2,7 @@
 title: The wonder of the fig
 date: 2022-10-09 17:57:02
 tags:
+- Europe
 categories: Nature
 ---
 *A break from the travel posts for a bit of science.*

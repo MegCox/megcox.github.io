@@ -2,6 +2,8 @@
 title: Bern and a bike ride
 date: 2022-05-22 20:14:22
 tags:
+- Europe
+- Switzerland
 categories: Travel
 ---
 {% asset_img river.jpg %}

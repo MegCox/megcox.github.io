@@ -1,7 +1,9 @@
 ---
 title: Albania
 date: 2022-09-10 11:52:16
-tags:
+tags: 
+- Albania
+- Europe
 categories: Travel
 ---
 I visited Albania three times in total: once with Rosaline where we spent a few days in Shkoder and Tirana; once to do the Valbone - Theth hike; and then two weeks travelling around the South. If I were to have written this post after my first visit, my review of Albania would have been lukewarm. We had an enjoyable time in Shkoder, playing cards in a bird watching hide looking over the lake. But beyond that, it wasn’t the most pleasant experience. I was eaten alive by insects by the lake. Our visit to Lumi i Shales (a beautiful river area) was fun but it was so strange with lots of weird restaurants and there was a lot of litter, and the organisation of the buses was carnage. I convinced myself we were being trafficked whilst on the bus from Shkoder to Tirana. The museums in Tirana were abysmal, featuring English translations so poor that Rosaline and I would finish reading them and give each other a look that said “do have any understanding of what that said?” (I’ve included my favourite one below). We were met with bad, almost rude, service at every restaurant. The taxi drivers at the bus station were aggressive. Tirana itself gave me the most bad vibes of any city I’ve visited. The angry red and black flag of Albania hung from flag poles every 10 metres down the main street in a war-like fashion. The buildings were ugly. The only saving grace was the walking tour we did, which was one of my favourite ones so far. I had no idea about Albanian history and it’s now the one I’m most interested in, especially their communist period. My reading list is filled with Albanian history books! My favourite titbits are the fact that Albania fell out with both the Soviet Union and China for them not being “communist enough”, and the crazy ponzi schemes that occurred after communism fell in the 1990s. My second visit to Albania was amazing, and is covered in the post about the Valbone - Theth hike. But this was because of the hike, and not really because of Albania in a more full sense. Now my third visit, that was quite a different story.

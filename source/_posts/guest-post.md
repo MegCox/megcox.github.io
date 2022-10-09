@@ -2,6 +2,7 @@
 title: Guest Post by Rosaline
 date: 2022-08-06 18:37:15
 tags:
+- Europe
 categories: Travel
 ---
 After spending two weeks travelling with me it felt only right to offer Rosaline the opportunity to write a post for megtherollingegg.com. I'm extremely honoured that she agreed and I'm very happy to share her words with you below. Get ready to read the best written post of the blog so far!

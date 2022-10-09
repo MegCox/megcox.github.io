@@ -2,6 +2,8 @@
 title: Greece
 date: 2022-10-02 15:15:41
 tags:
+- Europe
+- Greece
 categories: Travel
 ---
 After Athens I spent a further 2.5 weeks in Greece. I’ve been a bit lax on including logistic details recently, so just to remind you of the realities of travelling over land I’ve included all the transport this time!

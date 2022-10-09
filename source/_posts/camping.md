@@ -2,6 +2,8 @@
 title: Wild camping, Albania
 date: 2022-09-10 11:55:14
 tags:
+- Europe
+- Albania
 categories: Travel
 ---
 For the past few months an idea had been forming in my mind. Wild camping is legal in Albania, and I love to camp. I was feeling a bit too comfortable with the whole bus and hostel situation, and wanted a bit more of a challenge. So wouldn’t it be great to buy a tent and do some wild camping on my way through Albania to Greece? I found a rubbish little tent in Montenegro and my idea came to life!

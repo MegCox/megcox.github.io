@@ -2,6 +2,8 @@
 title: Turkish Bath - Hammam
 date: 2022-10-02 15:53:18
 tags:
+- Central Asia
+- Turkey
 categories: Travel
 ---
 {% asset_img hammam.png Hammam %}

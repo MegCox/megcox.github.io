@@ -1,6 +1,9 @@
 ---
 title: Bratislava
 date: 2022-06-11 17:27:49
+tags:
+- Europe
+- Slovakia
 categories: Travel
 ---
 {% asset_img banner.jpg %}

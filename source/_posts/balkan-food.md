@@ -2,6 +2,7 @@
 title: Balkan Food
 date: 2022-09-18 18:10:02
 tags:
+- Europe
 categories: Food
 ---
 After having spent around three months in the Balkans I’d say I’m familiar with most of their food. It’s pastry and meat based, with a lot of stuffed vegetables. White cheese is featured heavily, even in their salads, like the shopska salad. A lot of the food remained constant - bureks always available from bakeries, little doughnuts for breakfast at anywhere serving traditional food, plain meat patties always on the menu, fig jam and ajvar always ready to be spread on bread. But something I’ve enjoyed is watching how it slightly varies between countries, with each one having its own spin on dishes. I found that Albania had region specific dishes in a way that I didn’t see in the other countries, for example I had the Berati steak in Berat, and the Himare salad in, you guessed it, Himare. Below is a collection of photos of Balkan food and an in depth look on Burek.

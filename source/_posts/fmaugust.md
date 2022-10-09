@@ -1,6 +1,8 @@
 ---
 title: August
 date: 2022-08-11 15:15:12
+tags:
+- Europe
 categories: Full Moon check-in
 ---
 ### Full Moon Check-in

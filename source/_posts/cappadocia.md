@@ -2,6 +2,8 @@
 title: Cappadocia
 date: 2022-10-07 17:56:24
 tags:
+- Central Asia
+- Turkey
 categories: Travel
 ---
 After a hectic last month, zooming from a holiday with friends to a holiday with my family to Istanbul with my brother (such a hard life I know…), I felt like I needed some downtime in a place with nature. I decided to skip western Turkey, being beached out after spending the whole summer in the heat and by the sea, and caught an overnight bus to the centre of the country, to Cappadocia. It’s a place famous for its hot air balloons, and these are why it was on my radar, but after researching a bit more I found it’s also a place with amazing hikes through strange valleys and with towns cut into rocks. I found a lovely looking hostel in Goreme (the main town in the area) and booked myself in for four nights. Cappadocia gave me everything I had hoped for.

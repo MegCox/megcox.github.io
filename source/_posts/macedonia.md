@@ -2,6 +2,8 @@
 title: Macedonia
 date: 2022-08-07 16:32:45
 tags:
+- Europe
+- Macedonia
 categories: Travel
 ---
 Officially North Macedonia since 2019, but you won’t hear anyone refer to it as such and will get a disapproving look if you do. Macedonia is a lovely little country in the Balkans. I only visited the two most popular locations - Lake Ohrid and Skopje - but I think they give you a fairly rounded view of the country.

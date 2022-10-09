@@ -1,6 +1,10 @@
 ---
 title: Czechoslovakian food
 date: 2022-06-11 15:03:16
+tags:
+- Europe
+- Czechia
+- Slovakia
 categories: Food
 ---
 ## The Czech part

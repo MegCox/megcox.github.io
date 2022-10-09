@@ -2,6 +2,8 @@
 title: My favourite french meal
 date: 2022-05-11 19:48:53
 tags: 
+- Europe
+- France
 categories: Food
 ---
 

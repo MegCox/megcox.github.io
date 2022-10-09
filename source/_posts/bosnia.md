@@ -2,6 +2,8 @@
 title: Bosnia and Hercegovina
 date: 2022-07-02 14:55:10
 tags:
+- Europe
+- Bosnia and Hercegovina
 categories: Travel
 ---
 Bosnia and Hercegovina (I was repeatedly told off for just saying Bosnia, but will refer to it as B&H from now on because it’s too long) wasn’t in my original plan. On returning to Slovenia from Montenegro I wasn’t in a huge rush so it made sense to take a few days to see somewhere new. I’d visited B&H very briefly before, but only Trebinje which was interesting but nothing too special. I ended up spending 3 nights in Mostar, a town in the Hercegovina region, and 2 nights in Sarajevo, the capital, before catching an overnight bus back to Ljubljana. The week I spent in B&H felt very different to my previous weeks of travelling. It felt much heavier. Not exactly in a negative way though. I think there are three reasons for this: i) my personal mindset, I was running on 6 hours sleep in 2 days when I arrived in Mostar, and didn’t catch up on it for a few days, and was processing the end of Montenegro and that part of my trip, ii) it was really really hot, like 40 degrees hot, and iii) the history and reality is unbelievably heavy. A warning that this post is going to be quite history heavy as that’s mostly what I did here!

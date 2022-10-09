@@ -2,6 +2,8 @@
 title: Valbone - Theth Hike
 date: 2022-08-09 17:37:23
 tags:
+- Europe
+- Albania
 categories: Travel
 ---
 I had never heard of the Valbone to Theth hike before reaching the Balkans, but once here talk of it was ubiquitous. Or at least it seemed that way to me, perhaps because it sounded so wonderful. It’s a hike across the Albanian alps, between two mountain villages. The starting point for travellers is Shkoder, from there you travel to Valbone by taking a bus then a ferry then a second bus. You stay overnight in Valbone and in the morning you hike the 17km to Theth (well 12km, but if you want to do the peaks it’s 17km). You spend a night in Theth and take a bus back to Shkoder the following day. So many people raved about it, and as someone who loves a hike, and is getting even more into hiking on this trip, it was definitely a must for me. The best thing about this hike was how easy it was to organise. Basically, the hostel in Shkoder does everything for you. Because of this, so many people from the hostel are there to do the hike, meaning there’s a nice little gang of you heading up to the mountains together. Maybe I was just lucky, but I had the most wonderful group of people to spend the nights in the isolated guesthouses with, and to do the hike with.

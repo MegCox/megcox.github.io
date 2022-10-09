@@ -2,6 +2,8 @@
 title: Montenegro round 1
 date: 2022-06-24 20:15:02
 tags:
+- Europe
+- Montenegro
 categories: Travel
 ---
 The original plan was to spend all of June in Slovenia, until meeting a special guest in Zagreb on 8th July. Instead, I spent 10 days in Slovenia, travelled all the way to Montenegro, and am now travelling back up to Slovenia (via Bosnia) to spend the rest of the time before the 8th. Why? I thought a little bit about how I was going to explain this route deviation but I’ve decided to just be honest... It’s not to save Schengen days! It’s to spend a few more days with a guy I met in Prague and liked a little too much. An Australian called Will. Because if now isn’t the time to travel 18 hours to see a guy you’ve known for 10 days, when is? And I’m so so glad I did. This is a big perk of travelling alone and having a very flexible plan with nothing really booked ahead.

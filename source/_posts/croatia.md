@@ -2,6 +2,8 @@
 title: Croatia
 date: 2022-07-24 10:34:33
 tags:
+- Europe
+- Croatia
 categories: Travel
 ---
 Croatia is not my favourite place. It’s been unlucky in its placement next to Slovenia, as the contrast with this wonderful country makes Croatia look more sad than it probably deserves. I don’t know what it is about Croatia, but it just doesn’t speak to me. It doesn’t make me feel excited. I just don’t love it. It has a huge stretch of coastline, lots of islands and some cool national parks that are pretty green. But it still lacks something. The people aren’t the friendliest so that doesn’t help.

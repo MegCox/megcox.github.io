@@ -2,6 +2,8 @@
 title: Munich
 date: 2022-05-29 20:48:28
 tags:
+- Europe
+- Germany
 categories: Travel
 ---
 {% asset_img top.jpg %}

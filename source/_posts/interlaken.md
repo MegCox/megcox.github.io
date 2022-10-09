@@ -2,6 +2,8 @@
 title: Interlaken day trip
 date: 2022-05-16 21:38:31
 tags:
+- Europe
+- Switzerland
 categories: Travel
 ---
 {% asset_img banner.jpg %}

@@ -2,6 +2,8 @@
 title: Paris
 date: 2022-05-12 19:29:36
 tags:
+- Europe
+- France
 categories: Travel
 ---
 {% asset_img parisbanner.jpg %}

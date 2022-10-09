@@ -1,6 +1,8 @@
 ---
 title: Hostel Friends
 date: 2022-06-11 11:01:29
+tags:
+- Europe
 categories: People
 ---
 {% asset_img 1.jpg %}

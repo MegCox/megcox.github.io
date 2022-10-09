@@ -2,6 +2,10 @@
 title: Travelling with Rosaline
 date: 2022-07-24 10:36:21
 tags:
+- Europe
+- Croatia
+- Montenegro
+- Albania
 categories: Travel
 ---
 After 2 months of travelling alone I had the pleasure of having Rosaline join me for 2 weeks. In this post I won’t go into detail about the countries we visited, those will come later (a lot later for Montenegro and Albania, as I won’t be done exploring them until September!). Expect more of chat about what we did together, and how the experience of travelling with a friend differs from travelling alone.

@@ -2,6 +2,8 @@
 title: A Montenegrin Roadtrip
 date: 2022-08-24 17:59:10
 tags:
+- Europe
+- Montenegro
 categories: Travel
 ---
 *With Alex and Tarsha*

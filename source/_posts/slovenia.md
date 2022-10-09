@@ -1,6 +1,9 @@
 ---
 title: Slovenia
 date: 2022-07-07 19:48:37
+tags:
+- Europe
+- Slovenia
 categories: Travel
 ---
 *A love letter to Slovenia, and a full review*
