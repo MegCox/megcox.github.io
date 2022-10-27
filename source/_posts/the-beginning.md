@@ -4,6 +4,7 @@ categories:
   - Travel
 date: 2022-05-05 15:32:49
 tags:
+- Insights
 ---
 ##
 ## How do you prepare for a trip like this?

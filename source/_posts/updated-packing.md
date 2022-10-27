@@ -2,6 +2,7 @@
 title: Updated Packing List
 date: 2022-09-20 20:24:05
 tags:
+- Insights
 categories: Travel
 ---
 The time has come to head East, and with it the summer heat will end. Very luckily, my family has come out to meet me in Corfu and was able to bring me some items from home to revamp my packing from ‘European summer’ to ‘Central Asian winter’. So, as a break from the travel posts, here’s a packing update and discussion - what’s being swapped in, items I’ve used all the time and value, and ones that I’ve already ditched. This is probably quite a boring post for most, so feel free to skip. I weirdly enjoy reading dull, routine narratives so this is me indulging myself.
