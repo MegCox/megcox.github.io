@@ -1,0 +1,13 @@
+---
+title: A not ideal stay by the Black Sea
+date: 2022-11-04 18:39:04
+tags:
+- Caucasus
+- Georgia
+categories: Travel
+---
+I couldn’t face the marshrutka journey back to Batumi in one go so decided to spend a night along the black sea en route. After a quick google I found that Kobuleti was the main town but quite touristy, and Shekvetili was a more naturey area. Naturally I chose Shekvetili, a choice cemented by the fact there was a hotel that was only £13 a night. I got chucked out of the marshrutka at Shekvitili in the pouring rain. I got my raincoat out of my bag, and put the waterproof cover over it before setting off into the town. It was at this point I started to wish I’d done a bit more research first. It was an absolute ghost town. Clearly a beach resort only, and now out of season it was truly dead. I walked past closed restaurants and hotels before reaching the beach and finding my hotel (thankfully open!). I checked in and watched the torrential rain out of the double doors to my balcony, at least it was a very nice room. I asked the owner if anywhere was open for food, and he said the supermarkets. I got into my bikini and headed out in search of food for later and to go for a swim. It had stopped raining, and the sun was starting to peak through. After walking for 45 minutes and checking on 4 supermarkets I came up short. No food. Rice cakes and marmite it was! I found a nice spot to swim and undressed. Stood on the desolate beach, in the gale force winds, looking out at brown, rough sea I did question what on earth I was doing. So did the stray dog I’d picked up on my way. But as soon as I was submerged in the water, the cooling sea grounding me, and the sun emerging from the clouds to shine on my skin, I felt ecstatic. I plunged my head under, coming up spluttering, submerged by a wave. I splashed around for a bit before getting out and getting changed. I walked barefoot the rest of the way back to the hotel, looking at my feet in the black, magnetic sand. I wish I had had a magnet to see if it really was magnetic. Back at the hotel I washed off my feet before traipsing upstairs. I met the owner and explained the supermarkets were closed. He offered me food, and I gladly accepted. He rustled up some salami, a mustard like dip, bread and no less than 5 boiled eggs for me! I spent the rest of the day holed up in my room, enjoying a hot shower, watching a film and just relaxing.
+
+This was almost a disaster - a completely dead town with nowhere to get food. But it turned out alright, I enjoyed some food kindly cooked up for me and a quiet evening in relaxing.
+
+{% asset_img sea.png Black Sea %}
