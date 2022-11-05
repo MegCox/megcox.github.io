@@ -1,5 +1,5 @@
 ---
-title: Bizarre Bus Journey
+title: Bizarre bus journey
 date: 2022-11-04 19:36:48
 tags:
 - Caucasus
