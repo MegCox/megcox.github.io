@@ -1,5 +1,5 @@
 ---
-title: Christmas away!
+title: Christmas away from home
 date: 2023-01-01 19:12:54
 tags:
 - Central Asia
