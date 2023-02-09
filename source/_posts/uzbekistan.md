@@ -41,6 +41,10 @@ I had a few days in Samarkand as I waited for my Tajikistan e-visa to be approve
 
 I thought I might get tired of Silk Road cities after visiting three in a row, but I abolutely did not. All three were so different and I'm really not sure which was my favourite. The Registan Square in Samarkand was definitely the highlight, but the overall vibe of Khiva and Bukhara were more special. I'm sorry to say you have to visit all three in my opinion, no shortcuts available here!
 
+
+### Tashkent
+My return to Tashkent was brief and uneventful, but I enjoyed going to both a ballet and an opera at the national theatre. Even more so because they only cost £2.20 each! I had some fun changing my leftover Tajik somoni to Uzbek som with a random man at the bazaar. I said goodbye to my pair of jeans that were ripped beyond saving after I'd already sewed them up 3 times. I excitedly waited for my flight to India!
+
 ---
 
 ## People in Uzbekistan
