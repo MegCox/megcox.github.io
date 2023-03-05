@@ -6,8 +6,8 @@ My name is Meg. I’m travelling for the next 12 months, from **England to Thail
 
 You’re very welcome to join me on the evolution of this page and, more importantly, my trip.
 
-*Current location:* Tajikistan
-*Next stop:* India
+*Current location:* Nepal
+*Next stop:* Southeast Asia
 
 If you have **any** recommendations for the country I'm currently in or other counrties in the area please please please let me know! It would make my day, and you may even receive a postcard as a thank you.
 
