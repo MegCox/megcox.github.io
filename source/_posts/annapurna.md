@@ -61,7 +61,7 @@ Whilst I knew I wanted to trek in the Himalayas for years, I hadn’t actually s
 {% asset_img group.png %}
 
 If you're interested in seeing some photos of my trek, I've put together a google photos album which you can find here:
-https://photos.google.com/album/AF1QipOf1BZ5P3yOSkiTAaJ7vaEeO2h1v5XPcEYpoGTP
+https://photos.app.goo.gl/5XNiSfQ29J2HcpCAA
 ---
 
 ## Total stats
