@@ -2,7 +2,8 @@
 title: Half a year checkpoint
 date: 2022-11-09 21:03:50
 tags:
-categories:
+- Insights
+categories: Travel
 ---
 After being on the road for half a year it feels appropriate to give you a general travel update. Beyond the stats, this will only be interesting for those intrigued about the realities of travelling for a while and how it makes you feel.
 
