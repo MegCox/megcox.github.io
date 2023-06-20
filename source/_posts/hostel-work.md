@@ -4,6 +4,7 @@ date: 2022-08-31 15:04:55
 tags:
 - Europe
 - Montenegro
+- Volunteering
 categories: Travel
 ---
 I have a very short travelling bucket list, and one item on that list is to volunteer at a hostel. Ever since I stayed in a hostel alone for the first time in Mexico and realised it was a thing it’s been something that I’ve wanted to do. I also really wanted to spend a few weeks in one place, and properly get to know it. August seemed like the perfect time to do this, everywhere was getting a lot busier which isn’t my favourite thing, and hostels were booking up in advance which messes with my one or two days ahead style of planning. I’d had a busy first 3 months so 4 weeks of staying still and having a routine was very appealing. I originally looked at Albania and found a few opportunities on workaway. My criteria was:

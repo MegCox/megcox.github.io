@@ -4,6 +4,7 @@ date: 2023-04-08 17:31:19
 tags:
 - South Asia
 - Nepal
+- Volunteering
 categories: Travel
 ---
 I felt a strange draw to Nepal before this trip so knew I wanted to experience the real country beyond the trekking. As someone who loves tea, and who loves biology, volunteering at a tea farm seemed like the perfect opportunity to do this. After a few days in Pokhara to rest, get violently sick and recover, I caught a 16 hour overnight bus to a city called Birtamode in the very east of the country. I was feverish on the bus but luckily kept control of my bowels. This left me completely exhausted when I reached Birtamode, and I took my time before catching a jeep a further hour to a town called Fikkal. From here I walked 45 minutes across hills covered in terraces of tea bushes and well-kept houses to the Kulang’s family farm. I spent the next 10 days here, along with a slightly changing gang of 5 - 7 other volunteers, who happened to all be female.

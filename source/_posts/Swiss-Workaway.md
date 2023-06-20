@@ -4,6 +4,7 @@ date: 2022-05-29 17:00:31
 tags:
 - Europe
 - Switzerland
+- Volunteering
 categories: Travel
 ---
 {% asset_img 1.png %}

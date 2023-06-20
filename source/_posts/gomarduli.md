@@ -4,6 +4,7 @@ date: 2022-11-17 20:54:40
 tags:
 - Caucasus
 - Georgia
+- Volunteering
 categories: Travel
 ---
 Back in Turkey I was on the phone to my parents saying how I wanted to spend a while in Georgia because I’d heard such good things about it, and they suggested doing a workaway there. It was a great idea and I found three that I liked the look of. Two weren’t taking volunteers now that it’s winter, and the third replied that they’d love to have me. So henceforth came my bizarre bus journey to a remote retreat centre in Gomarduli. I stayed for two weeks, left for one week with one of the other volunteers to explore Tbilisi and the surrounding area, then returned for a silent retreat (more on that in a separate blog post). 

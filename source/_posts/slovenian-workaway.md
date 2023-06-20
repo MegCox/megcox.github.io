@@ -4,6 +4,7 @@ date: 2022-06-23 16:36:14
 tags:
 - Europe
 - Slovenia
+- Volunteering
 categories: Travel
 ---
 After a hectic two weeks of city hopping and party hostels I was very ready to chill out for a bit. I needed to recharge. Especially as I had lost my voice and come down with a cough. I had organised (via workaway of course) to stay with a family in Slovenia for two weeks. And now I’m leaving I can see how much of a success it was - I feel completely refreshed and re-energised. I truly loved my time there. My work was more like chores than proper work, I would muck out the horses throughout the day and muck out their pasture in the evening. I would walk the dog twice a day. I would play with the youngest child while the older two were at school. The rest of my day would be filled with sunbathing, reading, blog writing and calling friends to catch up. It was the most wonderful way to recharge.
