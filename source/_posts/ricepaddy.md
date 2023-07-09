@@ -2,7 +2,7 @@
 title: My time as a rice farmer
 date: 2023-07-02 19:43:39
 tags: 
-- Southeast Asia
+- Maritime Southeast Asia
 - Malaysia
 - Volunteering
 categories: Nature
