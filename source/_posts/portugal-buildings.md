@@ -1,0 +1,12 @@
+---
+title: Buildings we saw, Faro
+date: 2024-04-28 15:58:08
+tags:
+- Portugal
+categories: Short Trips
+---
+Faro is a very cute, small European town. Perfect for strolling around in the spring sun. There were a few particularly stunning parts: the blue, white frosted building in the square across from our chosen breakfast spot, and the Cathedral square lined with orange trees. I was obsessed with the details of the coloured, simple buildings. Especially beautiful were the tiny lanes of the fishing town of Farol, on Ilha Culatra. No motorised vehicles, just the sound of boots on the ground. And those were few and far between, it was remarkably quiet. We admired the plants outside each house, the joys of travelling with another biology grad, and kept a watchful eye on the white and red lighthouse which gave the town it's name (Farol means lighthouse in Portuguese). We also visited the larger market town of Loule, dancing through it's streets filled with 4 glasses of wine and no dinner, and the fishing town of Olhao which was nice but unremarkable.
+
+I took a lot of photos; of the windows, of the contrast with the sky, of the old trees growing in front of the whitewash walls, of the gaps between the houses where the sea peeped through.  Angharad asked if I had a camera. I said I didn’t. I had almost bought a digital camera for travelling but realised my phone could do a sufficient job and I hated carrying more than what I needed around with me. But lately, I’d been wanting to do more than my phone allowed. I still can’t see myself buying a proper camera, but a film camera had been sat on my wish list for a while…
+
+We noticed a lot of people holding red carnations on our last day. In the small garden area by the harbourside there was a gathering of people, perhaps a protest we thought. Waiting for the bus to Olhao, we asked a shop keeper who had moved outside to smoke what it was for. She explained and the red carnations made sense. Today marked 50 years since the revolution of Portugal, ending the corporatist authoritarian rule of Estada Novo. It was a peaceful revolution. The army took over control of Lisbon without violence, with an old lady selling carnations placing one into into the barrel of one soldiers gun. The red carnations became a symbol of peace and liberation. This year's events seemed especially focused, with the far right gaining increased support in Portugal, as seems to be the picture across Europe.
