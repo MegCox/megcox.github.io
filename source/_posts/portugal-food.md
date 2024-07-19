@@ -3,9 +3,7 @@ title: Food we ate, Faro
 date: 2024-04-28 14:58:29
 tags:
 - Portugal
-categories: 
-- Short Trips
-- Food
+categories: Short Trips
 ---
 Simple. Fresh. Fishy. As my focus on food has increased recently (a holdover from travel mixed with a sensitive stomach and a growing interest in food security), simple and fresh is what I value most. I want a few ingredients that I can really taste. I want every part of my plate to be homemade. I want to feel connected to the food I’m eating. The mediterraneans do this like no others. The sea is in my nose as I eat the fish caught that morning. 
 
