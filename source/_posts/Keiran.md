@@ -1,0 +1,11 @@
+---
+title: Travel through People - Keiran
+date: 2024-12-30 20:05:45
+tags: Friends
+categories: Travel through People
+---
+The first time Kieran entered my world was on the drive to Snowdonia. He wasn’t in the car, but Tarsha was driving and was telling me all about this guy she’d met at Izzy’s summer camp out. I was still desperately sad about being back home after my trip, so was very thankful for the distraction. We discussed how wonderful he seemed, but also the concerns she had that maybe they weren’t the perfect fit. It’s laughable to think about this now. I have never seen two people more perfectly matched than Tarsha and Kieran. Their whole relationship is so nourishing to see, and it is so lovely to see a friend being loved in such a complete way.
+
+BUT when I think of Kieran, I also think about the infamous story of him attending a big work conference after just starting a new job. Of being invited onto the stage without warning and asked to share something motivational. Of him coming out with the beautifully hilarious phrase of “Nothing matters”. Of being met with a sea of taken aback faces and deciding the only way forward was to commit, and to simply repeat the phrase again, louder and with more confidence. “Nothing matters”. I can’t retell the story with the same hilarity as he can, but I think about it often when anything gets a bit much. I actually completely agree with him. I’m not sure I’d describe it as a motivational quote, but it is incredibly freeing. To realise that nothing matters, so there’s no need to stress or worry. Nothing matters so you might as well just have some fun and enjoy your silly little life. A sentiment which Kieran absolutely nails. Always a bubble of lightness and fun at any gathering. I’m glad we didn’t confine you to a tent on new year’s last year and scare you off.
+
+N.b. I need to inform Kieran that I speak of him surprisingly often. To be specific, any time someone asks me about the best gift I’ve ever received. The answer is my secret santa gift from last year from Kieran - an apron with several hand-painted eggs rolling across it. Meg the Rolling Egg.

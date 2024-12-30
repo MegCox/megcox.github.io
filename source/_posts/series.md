@@ -1,0 +1,9 @@
+---
+title: Travel through People - A new series
+date: 2024-12-30 20:09:15
+tags:
+categories: Travel through People
+---
+On a recent date (no further details here, this is a travel blog not a dating blog, but please see a friend’s incredible substack on this exact subject matter [here](https://areyoumyboyfriend.substack.com/)), my blog came up and the guy asked if I was currently writing. I explained that I didn’t write as much now that I wasn’t travelling full-time, that I wanted to write more but I didn’t know what I wanted to write about. This led into a general discussion over why we write and if writing needs to have a purpose, and it transpired that the guy also wanted to start writing. The whole conversation was lovely and importantly for you, it made me realise what I did want to write about. My friends. I loved writing observational pieces. And whilst I wasn’t constantly travelling, I was constantly observing, learning and experiencing new things, through my relationships. All of that curious and observational energy cultivated whilst travelling was being focused into my friendships (and my work, but no one wants to read about corporate law). I interrupted my date with excitement when the idea struck and (after I apologised for the interruption) we mulled over the idea of writing about people. Was it an invasion of privacy? Would the person feel like you learnt about them just to exploit it for a blog piece, rather than for a genuine interest in them? Ultimately, we realised we’d both be flattered if anyone wrote about us, and would enjoy reading it hugely. I guess human self-interest wins in the end. 
+
+All of this to say, I’m going to start writing observational pieces about people (and maybe other subjects) in between travel posts. Starting with the guests to my New Year’s Eve dinner.

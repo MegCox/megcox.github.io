@@ -1,0 +1,13 @@
+---
+title: Travel through People - Tarsha
+date: 2024-12-30 20:04:33
+tags: Friends
+categories: Travel through People
+---
+Thinking about the person Tarsha is now genuinely gives me goosebumps. As a school friend I’ve known her for many years. But the person she is now is the one I love the most.
+
+I am obsessed with her love for life, her commitment to her own path, her motivation to do things she likes to do, and her ability to make her own dresses. Tarsha has always had this ability to state things about herself as fact. Let me explain. When I talk about my future, the words “maybe” “I think” “something along those lines” come up a lot. Even when I talk about something in the present, I’ll weaken the point. With Tarsha, there is none of that rubbish. She is sure, so she speaks surely. There is certainty and intention in her actions. This isn’t to say she doesn’t change her mind, she definitely does, but she does that as fact too. For example, for a period Tarsha was vegetarian. It was a fact, and you’d be forgiven for thinking that would be a life long choice due to the certainty of it all. But later, Tarsha stopped being a vegetarian, without any doubts or wobbling, this was the new fact. She doesn’t try to hide the fact that she was previously a vegetarian, why would she? She was sure then, and she’s sure now. The subject can change, but the sureness does not. This sureness covers not just her speech, but her life. She wanted to spend more time with her mum, so she lived and worked near home. She wanted to become a teacher, so she did a PGCE. She wanted to live somewhere quiet and secluded, specifically in a barn conversion on a farm, and so that’s where she lives. She wanted to do more travelling, so she spent a summer going on multiple solo trips. She wanted to be in a relationship, so she thought about the type of person she wanted to be with and did not settle for anything less. 
+
+Perhaps it is her belief that there is no such thing as a universal truth, and therefore no such thing as a fact (I’m not even sure if she believes this, I just remember a very interesting, very long conversation we had on the topic whilst on our little retreat in Cornwall with Sam), that allows her to be so factual. Because such an act lacks the weight and associated stress that it holds for the rest of us. Whilst all of our minds are cloudy and confused at this transitional age, Tarsha’s just seems so clear. Maybe she’ll disagree with this observation, but I think it holds at least some truth.
+
+I love catching up with Tarsha and getting to see more of her certain and exciting life. I can’t wait to see the moves she makes over the next year…
