@@ -1,5 +1,5 @@
 ---
-title: Winter Wild Camping
+title: A Winter Wild Camp
 date: 2025-01-26 22:17:18
 tags: 
 categories: Hikes and Camps
