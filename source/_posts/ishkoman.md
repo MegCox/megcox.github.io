@@ -1,6 +1,6 @@
 ---
 title: The journey north, and a blissful place
-date: 2025-08-31 06:50:17
+date: 2025-08-31 06:45:17
 tags:
 - Pakistan
 categories: Quali leave
