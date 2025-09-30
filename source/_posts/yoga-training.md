@@ -11,7 +11,7 @@ The second half of my quali leave was dedicated to yoga. I used this month to co
 
 Intense. We had classes 6 days a week, each day following an identical schedule. See below for this schedule, and note the starting time of 5:45am (ouch). 
 
-{%asset_img Yoga.png%}
+{%asset_img Yoga.jpg%}
 
 The day began with pranayama (breathwork) and shatkarma (traditional cleansing techniques). The pranayama was enjoyable and fairly familiar. The shatkarma was less so… This saw us pouring salt water into one nostril and letting it pour out of the other (surprisingly refreshing after I’d got the angle right and the water stopped pouring down my throat instead). It saw us washing our eyes with eye cups (also quite pleasant). And, finally, it saw us threading a rubber tube up our nostril and down the nasal passage to emerge at the back of our throats, where we reached in and pulled it out of our mouth (or attempt to, I couldn’t stop sneezing long enough to get it round the curve at the top of my nose) (definitely not pleasant!). Beyond the eye washing, I’ve decided these techniques are something I’ll leave at the ashram, but I’ve made a commitment to floss everyday - modern day shatkarma if you will.
 
