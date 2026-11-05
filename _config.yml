@@ -108,10 +108,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: https://github.com/MegCox/megcox.github.io
+  type: git
+  repo: git@github.com:megcox/megcox.github.io.git
   branch: gh-pages
-
+  shallow: true
 
 # Images
 images:
